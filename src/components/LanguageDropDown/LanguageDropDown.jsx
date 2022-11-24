@@ -1,6 +1,6 @@
 import React from 'react'
 import './LanguageDropDown.scss'
-import DropDownVector from '../../../src/images/DropDownVector.svg'
+import DropDownVector from '../../../src/images/DropDownVector.svg?url'
 
 const LanguageDropDown = () => {
   return (
